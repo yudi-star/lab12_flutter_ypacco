@@ -44,7 +44,7 @@ class PantallaPerfil extends StatelessWidget {
                 ),
               ),
               const SizedBox(height: 40),
-              // Campo de Nombre
+              
               const Padding(
                 padding: EdgeInsets.only(bottom: 8.0),
                 child: Text(
