@@ -10,7 +10,7 @@ class TareaItemCard extends StatelessWidget {
     required this.prioridad,
   });
 
-  // Determina el color basado en la prioridad
+
   Color _getPrioridadColor() {
     switch (prioridad.toLowerCase()) {
       case 'alta':
